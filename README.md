@@ -1,2 +1,0 @@
-# resumeee
-repo web dev
